@@ -66,6 +66,5 @@ This repository contains a Python-based solution for extracting articles on mens
 - **Data Files:** Extracted articles in JSON/CSV format and processed analysis results.
 - **Video Demonstration:** A 5-minute video showcasing the functionality of the system.
 
-## License
-This project is licensed under the MIT License - see the LICENSE.md file for details.
+
 
